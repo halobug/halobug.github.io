@@ -3,7 +3,7 @@
 	Item	: 	N5 - Minimal Resume/CV & vCard Template
 	
 
-¸ü¶à¾«Æ·BootstrapÄ£°åÇë·ÃÎÊ£ºhttp://www.bootstrapmb.com
+ï¿½ï¿½ï¿½à¾«Æ·BootstrapÄ£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê£ï¿½http://www.bootstrapmb.com
 
 	Author	: 	Noman Ali Samejo
 	
@@ -252,7 +252,7 @@ body.border-dark .main-content:after{
 	left:0;
 	height:100%;
 	width:100%;
-	background:#303F9F;
+	background:#2e7de4;
 	opacity:.8;
 	z-index:-1;
 }
@@ -260,13 +260,13 @@ body.border-dark .main-content:after{
 	padding:20px;
 	text-align:center;
 }
-.intro-text > h1{
+.intro-text > h3{
 	margin:0;
 	color:#FFF;
 	text-transform:uppercase;
 	font-weight:900;
 	letter-spacing:8px;
-	font-size:78px;
+	font-size:50px;
 }
 .intro-text > p{
 	font-size:18px;
